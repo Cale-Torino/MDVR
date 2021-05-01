@@ -1,0 +1,308 @@
+
+Turn off GPS
+<Param_Base_Info>
+    <MESSAGE_ID>1</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <DateType>0</DateType>
+    <TimingMode>0</TimingMode>
+    <TimeZone>20</TimeZone>
+    <buzzerSwitch>0</buzzerSwitch>
+    <timingtime>0</timingtime>
+    <verifyChip>0</verifyChip>
+    <OprTimeOut>60</OprTimeOut>
+</Param_Base_Info>
+
+Set up the time manually£º
+<Param_System_Time>
+    <MESSAGE_ID>2</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <Year>2015</Year>
+    <Month>1</Month>
+    <Day>29</Day>
+    <Hour>17</Hour>
+    <Minute>00</Minute>
+    <Second>00</Second>
+</Param_System_Time>
+
+Format sd card remotely
+<Control_sendInfo>
+    <MESSAGE_ID>1</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <Data>mv /mnt/sd1/rec_dir/ /mnt/sd1/123;rm -rf /mnt/usb/*;reboot</Data>
+    <DataSize>60</DataSize>
+    <remark>61440</remark>
+</Control_sendInfo>
+
+
+<Control_sendInfo>
+    <MESSAGE_ID>1</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <Data>touch /mnt/sd1/formatflag; sync; reboot</Data>
+    <DataSize>60</DataSize>
+    <remark>61440</remark>
+</Control_sendInfo>
+
+
+
+Format sd card remotely
+<Control_sendInfo>
+    <MESSAGE_ID>1</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <Data>mv /mnt/sd1/rec_dir/ /mnt/sd1/123;mv /mnt/sd2/rec_dir/ /mnt/sd2/123;rm -rf /mnt/usb/*;reboot</Data>
+    <DataSize>60</DataSize>
+    <remark>61440</remark>
+</Control_sendInfo>
+
+Delete the upgrade file remotely
+<Control_sendInfo>
+    <MESSAGE_ID>1</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <Data>rm -rf /mnt/sd1/*.crc;rm -rf /mnt/sd2/*.crc</Data>
+    <DataSize>60</DataSize>
+    <remark>61440</remark>
+</Control_sendInfo>
+
+Delete the alarm back up remotely
+<Control_sendInfo>
+    <MESSAGE_ID>1</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <Data>rm -rf /mnt/usb/NetAlarmBackup;reboot</Data>
+    <DataSize>60</DataSize>
+    <remark>61440</remark>
+</Control_sendInfo>
+
+
+Set up FTP server
+<Param_CenterNetWork>
+  <MESSAGE_ID>3</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <id>7</id>
+  <Enable>1</Enable>
+  <Type>0</Type>
+  <CenterIP>113.108.120.47</CenterIP>
+  <ContrlPort>21</ContrlPort>
+  <DomainName>test 101101</DomainName>
+</Param_CenterNetWork>
+
+
+
+Reboot
+<Control_sendInfo>
+    <MESSAGE_ID>1</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <Data>reboot</Data>
+    <DataSize>60</DataSize>
+    <remark>0795703835</remark>
+</Control_sendInfo>
+
+
+Delete FTPSYNC
+<Control_sendInfo>
+    <MESSAGE_ID>1</MESSAGE_ID>
+    <MESSAGE_TYPE>2</MESSAGE_TYPE>
+    <Data>rm -rf /mnt/usb/ftpsync/*</Data>
+    <DataSize>60</DataSize>
+    <remark>61440</remark>
+</Control_sendInfo>
+
+Get FTP log
+<Control_sendInfo>
+  <MESSAGE_ID>4</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Data>ftpput -v -u admin -p RCM2016888 -P 21 113.108.120.47 ftp_debug_20167105.log /mnt/usb/debug.log &</Data>
+  <DataSize>83</DataSize>
+  <remark>50003</remark>
+</Control_sendInfo>
+
+<Control_sendInfo>
+  <MESSAGE_ID>4</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Data>ftpput -v -u admin -p RCM88888888 -P 21 113.108.120.47 ftp_debug_04080420601.log /mnt/usb/debug.log.bak &</Data>
+  <DataSize>83</DataSize>
+  <remark>61440</remark>
+</Control_sendInfo>
+
+
+South Africa FTP upgrade
+<Control_sendInfo>
+  <MESSAGE_ID>4</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Data>ftpget -u ftp01 -p 101101 -P 21 222.86.191.7 /mnt/sd2/DVR-AHD-T17032701-V5.03.00.wb-CH.crc DVR-AHD-T17032701-V5.03.00.wb-CH.crc &</Data>
+  <DataSize>83</DataSize>
+  <remark>13950030000</remark>
+</Control_sendInfo>
+
+
+<Control_sendInfo>
+  <MESSAGE_ID>4</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Data>ftpget -u ftp01 -p 101101 -P 21 183.47.50.44 /mnt/sd2/71X-AHD-T17051601-V5.03.00.wb-CH.crc 71X-AHD-T17051601-V5.03.00.wb-CH.crc &</Data>
+  <DataSize>83</DataSize>
+  <remark>018126263800</remark>
+</Control_sendInfo>
+
+
+Get the file list of the disk
+<Control_sendInfo>
+  <MESSAGE_ID>4</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Data>ls /mnt/sd2/rec_dir>/tmp/search.log &</Data>
+  <DataSize>83</DataSize>
+  <remark>61440</remark>
+</Control_sendInfo>
+
+<Control_sendInfo>
+  <MESSAGE_ID>4</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Data>ftpput -v -u admin -p RCM2016888 -P 21 121.15.162.137 ATS08-sd2.log /tmp/search.log &</Data>
+  <DataSize>83</DataSize>
+  <remark>61440</remark>
+</Control_sendInfo>
+
+
+G-sensor set up
+<Param_G_SensorSet>
+  <MESSAGE_ID>2</MESSAGE_ID>
+  <MESSAGE_TYPE>3</MESSAGE_TYPE>
+  <id>0</id>                  //   0-x,1-y,2-z,3-Collision,4-Rollover
+  <value>120</value>
+</Param_G_SensorSet>
+
+
+Export parameter
+<Control_system>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Control_Type>6</Control_Type>
+  <Control_State>6</Control_State>
+</Control_system>
+
+Get FTP parameter
+<Control_sendInfo>
+  <MESSAGE_ID>4</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Data>ftpput -v -u admin -p 88888888 -P 21 113.108.120.47 param.xml /mnt/usb/param.xml &</Data>
+  <DataSize>83</DataSize>
+  <remark>61440</remark>
+</Control_sendInfo>
+
+IPC page parameter
+<Param_IPCSet>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>1</MESSAGE_TYPE>
+  <Enable>0</Enable>
+  <ChId>0</ChId>
+  <DevType>0</DevType>
+  <Protocol>0</Protocol>
+  <ChlNo>0</ChlNo>
+  <CameraIP></CameraIP>
+  <CameraPort>0</CameraPort>
+  <UserName></UserName>
+  <UserPwd></UserPwd>
+  <rtspUrl_0></rtspUrl_0>
+  <rtspUrl_1></rtspUrl_1>
+  <Width>0,0</Width>
+  <Height>0,0</Height>
+</Param_IPCSet>
+
+
+input command:h DVR_GPS_STATE
+1,DVR_GPS_MODULE_NOEXIST        =       0       //Module doesn't exist
+2,DVR_GPS_MODULE_ERR    =       1               //Module exist, but with problem
+3,DVR_GPS_ANTENNA_CLIPPING      =       2       //b.Antenna disconnected or cut off
+4,DVR_GPS_ANTENNA_SHORTCIRCUIT  =       3       //Antenna short circuit
+5,DVR_GPS_WORK_OK       =       4               //b.GPS ok
+6,DVR_GPS_WORK_NO       =       5               //GPS not ok
+
+input command:get 4
+---send_id=1,sendbuf(435):
+<Info_gps>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>1</MESSAGE_TYPE>
+  <positionMode>0</positionMode>
+</Info_gps>
+
+---recv_id=1,recvbuf(453):<Info_gps>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>0</MESSAGE_TYPE>
+  <positionMode>1</positionMode>
+  <gpsState>4</gpsState>
+  <gpsValid>65</gpsValid>
+  <longitude>11404.518300</longitude>
+  <directionLon>69</directionLon>
+  <latitude>2237.628300</latitude>
+  <directionLat>78</directionLat>
+  <direction>8657</direction>
+  <elevational>10460.000000</elevational>
+  <speed>0.000000</speed>
+  <starNumber>9</starNumber>
+</Info_gps>
+
+
+GPS info
+<Info_gpsOriginalData>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>1</MESSAGE_TYPE>
+  <data_mask>1</data_mask>
+  <Data></Data>
+</Info_gpsOriginalData>
+
+---recv_id=1,recvbuf(159):
+<Info_gpsOriginalData>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>0</MESSAGE_TYPE>
+  <data_mask>1</data_mask>
+  <Data></Data>
+</Info_gpsOriginalData>
+
+Set up sub stream
+<Param_RecordCodeSet>
+  <MESSAGE_ID>9</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <StreamType>0</StreamType>        //Stream type:0--main stream;1--sub stream;2--Mirror stream
+  <ChId>0</ChId>                   //channel number:0-3  £¨Related number channel 1 to channel 4£©
+  <isRec>1</isRec>                  //Enable record:0--off,1--on
+  <Resolution>2</Resolution>        //Resolution:0--D1,1--HD1,2--CIF,
+  <FrameRate>25</FrameRate>      //Frame:1~25(PAL),1~30(NTSC)
+  <Quality>2</Quality>             //Quality:0~7,0 the best,default:2
+  <HaveAudio>1</HaveAudio>      //Audio:0--off,1--on
+  <isPreview>1</isPreview>        //Preview:0--off,1--on
+</Param_RecordCodeSet>
+
+
+<Param_RecordCodeSet>
+  <MESSAGE_ID>9</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <StreamType>0</StreamType>
+  <ChId>0</ChId>
+  <isRec>1</isRec>
+  <Resolution>-1</Resolution>
+  <FrameRate>25</FrameRate>
+  <Quality>2</Quality>
+  <HaveAudio>1</HaveAudio>
+  <isPreview>1</isPreview>
+</Param_RecordCodeSet>
+
+
+<Info_3g>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>1</MESSAGE_TYPE>
+</Info_3g>
+
+Video config
+<Param_RecordSet>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>0</MESSAGE_TYPE>
+  <SysNorm>0</SysNorm>             //Video type:0--PAL,1--NTSC
+  <RecMode>0</RecMode>             //Record mode:0--devie on to record;1--set up time record;2--alarm record
+  <AlarmPreRecTime>30</AlarmPreRecTime>    //Alarm pre record time(Unit:s)[0,60]
+  <AlarmRecDelayTime>120</AlarmRecDelayTime>    //Alarm record delayed time(unit:s)[120,3600]
+  <AlarmRecFileProtectTm>3</AlarmRecFileProtectTm>  //Alarm video file protection time(Unit:day)[3,45]
+  <AudioType>1</AudioType>   
+  <AOVolume>15</AOVolume>
+  <CameraType>1</CameraType>     //0¡ªstandard £» 1¡ªHD
+</Param_RecordSet>
+
+
+
+
