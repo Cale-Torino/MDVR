@@ -1,0 +1,18 @@
+[2020/05/14 17:53:53] :  ***- APPLICATION STARTED -*** 
+[2020/05/14 17:53:57] :  ***Copy Selected Clicked*** 
+[2020/05/14 17:53:57] :  ***Copy Selected Error*** System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.Windows.Forms.Clipboard.SetText(String text, TextDataFormat format)
+   at System.Windows.Forms.Clipboard.SetText(String text)
+   at PicfileExtract_Panel.Form1.copyToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\fitgirl\source\repos\PicfileExtract_Panel\PicfileExtract_Panel\Forms\Form1.cs:line 272
+[2020/05/14 17:54:02] :  ***Cut All Clicked*** 
+[2020/05/14 17:54:04] :  ***Clear All Clicked*** 
+[2020/05/14 17:54:06] :  ***Copy All Clicked*** 
+[2020/05/14 17:54:06] :  ***Copy Selected Clicked*** 
+[2020/05/14 17:54:06] :  ***Copy Selected Error*** System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.Windows.Forms.Clipboard.SetText(String text, TextDataFormat format)
+   at System.Windows.Forms.Clipboard.SetText(String text)
+   at PicfileExtract_Panel.Form1.copyToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\fitgirl\source\repos\PicfileExtract_Panel\PicfileExtract_Panel\Forms\Form1.cs:line 272
+[2020/05/14 17:54:08] :  ***Exit Form Closing Clicked*** 
+[2020/05/14 17:54:09] :  ***Exiting Form...X *** 
