@@ -16,7 +16,7 @@
 
 Make sure that the correct .dll files are in the executable's directory. Below is an example of the main element of this program:
 
-```
+```C#
 //Here the app calls methouds from the C++ .dll files for use in the application.
 [DllImport("libnetclient.dll", CallingConvention = CallingConvention.StdCall)]//standard call
 public static extern int NETCLIENT_Initialize(int bPriorRGB16);//methoud called as static
