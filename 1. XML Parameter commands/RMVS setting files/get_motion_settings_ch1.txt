@@ -1,0 +1,5 @@
+<Param_MotionDetctionSet>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>1</MESSAGE_TYPE>
+  <id>1</id>     //0~7 Corresponding channel 1 ~ Channel 8
+</Param_MotionDetctionSet>

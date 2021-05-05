@@ -1,0 +1,6 @@
+<Control_system>
+  <MESSAGE_ID>2</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Control_Type>10</Control_Type>
+  <Control_State>0</Control_State>
+</Control_system>

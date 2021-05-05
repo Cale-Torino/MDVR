@@ -1,0 +1,13 @@
+<Param_G_SensorSet>
+  <MESSAGE_ID>2</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <unit>0</unit>
+  <BrakeDirect>0</BrakeDirect>
+  <id>0</id>                  //   0-x,1-y,2-z,3-Collision,4-Rollover
+  <Enable>1</Enable>
+  <LimitValue>80</LimitValue>
+  <HoldTime>1</HoldTime>
+  <DelayTime>0</DelayTime>
+  <isRecord>0</isRecord>
+  <linkage>0</linkage>
+</Param_G_SensorSet>

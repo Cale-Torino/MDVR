@@ -2,6 +2,10 @@
 
 All documents, walk-through files and other files relating to MDVR (Mobile Digital Recording) devices
 
+### Food for thought
+
+- quora artical about MDVR devices: https://www.quora.com/What-is-the-best-mobile-DVR-in-China
+
 ### Folder Structure
 
 1. XML Parameter commands files: *[Link To Files](https://github.com/Cale-Torino/MDVR/tree/main/1.%20XML%20Parameter%20commands)*

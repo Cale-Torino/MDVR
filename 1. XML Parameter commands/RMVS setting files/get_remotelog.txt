@@ -1,0 +1,7 @@
+<Control_sendInfo>
+  <MESSAGE_ID>4</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <Data>ftpput -v -u mdvrtdukps -p truck102938 -P 21 196.22.132.141 ftp_debug_1519.log /mnt/usb/debug.log &</Data>
+  <DataSize>83</DataSize>
+  <remark>61440</remark>
+</Control_sendInfo>

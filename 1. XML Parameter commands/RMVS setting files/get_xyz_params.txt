@@ -1,0 +1,5 @@
+<Param_G_SensorSet>
+  <MESSAGE_ID>2</MESSAGE_ID>
+  <MESSAGE_TYPE>1</MESSAGE_TYPE>
+  <id>0</id>  //   0-x,1-y,2-z,3-Collision,4-Rollover
+</Param_G_SensorSet>

@@ -1,0 +1,1 @@
+<Param_System_Info> <MESSAGE_ID>1</MESSAGE_ID><MESSAGE_TYPE>1</MESSAGE_TYPE></Param_System_Info>

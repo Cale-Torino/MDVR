@@ -1,0 +1,10 @@
+<Param_CenterNetWork>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <id>7</id>
+  <Enable>1</Enable>
+  <Type>0</Type>
+  <CenterIP>196.22.132.141</CenterIP>
+  <ContrlPort>21</ContrlPort>
+  <DomainName>trackgtage_0 Tecat54321</DomainName>
+</Param_CenterNetWork>

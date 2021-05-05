@@ -1,0 +1,4 @@
+<Param_SysPowerSet>
+  <MESSAGE_ID>6</MESSAGE_ID>
+  <MESSAGE_TYPE>1</MESSAGE_TYPE>
+</Param_SysPowerSet>

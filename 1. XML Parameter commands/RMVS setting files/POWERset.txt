@@ -1,0 +1,12 @@
+<Param_SysPowerSet>
+  <MESSAGE_ID>6</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <PowerMode>1</PowerMode>
+  <DelayTime>1440</DelayTime>
+  <ScreenOffTime>300</ScreenOffTime>
+  <PowerOnTime>50060</PowerOnTime>
+  <PowerOffTime>50060</PowerOffTime>
+  <LayoutMode>2</LayoutMode>
+  <ShowPage>0</ShowPage>
+  <AccPowerOffRecEnable>13</AccPowerOffRecEnable>
+</Param_SysPowerSet>

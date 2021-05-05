@@ -1,0 +1,17 @@
+<Param_DiskUseSet>
+<MESSAGE_ID>4</MESSAGE_ID>
+<MESSAGE_TYPE>2</MESSAGE_TYPE>
+<RecFileSize>100</RecFileSize>    //Represents the space allocated for a single file(Need to use this code everytime, if not, it can cause problem)
+<diskId>2</diskId>      //Disk   2:disk1(SD card)    3:disk2 (Hard disk)
+<RecUse>1</RecUse>    //Usage  0:none,1:Main Record,2:mirror record,
+<RecPriority>1</RecPriority>  //Priority  0:low,1:medium,2:high
+</Param_DiskUseSet>
+
+<Param_DiskUseSet>
+<MESSAGE_ID>4</MESSAGE_ID>
+<MESSAGE_TYPE>2</MESSAGE_TYPE>
+<RecFileSize>100</RecFileSize>  
+<diskId>2</diskId>      
+<RecUse>0</RecUse>    
+<RecPriority>1</RecPriority>  
+</Param_DiskUseSet>

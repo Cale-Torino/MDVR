@@ -1,0 +1,6 @@
+<Param_RecordCodeSet>
+  <MESSAGE_ID>3</MESSAGE_ID>
+  <MESSAGE_TYPE>1</MESSAGE_TYPE>
+  <StreamType>0</StreamType>
+  <ChId>0</ChId>
+</Param_RecordCodeSet>

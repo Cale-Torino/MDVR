@@ -1,0 +1,20 @@
+<Param_MotionDetctionSet>
+  <MESSAGE_ID>1</MESSAGE_ID>
+  <MESSAGE_TYPE>2</MESSAGE_TYPE>
+  <id>1</id>
+  <Sensitivity>80</Sensitivity>
+  <Enable>1</Enable>
+  <LimitValue>1</LimitValue>
+  <HoldTime>0</HoldTime>
+  <DelayTime>600</DelayTime>
+  <isRecord>0</isRecord>
+  <linkage>1</linkage>
+  <DetectRegion_x>0</DetectRegion_x>
+  <DetectRegion_y>0</DetectRegion_y>
+  <DetectRegion_w>1000</DetectRegion_w>
+  <DetectRegion_h>1000</DetectRegion_h>
+  <start_rec1>0</start_rec1>
+  <end_rec1>0</end_rec1>
+  <start_rec2>0</start_rec2>
+  <end_rec2>0</end_rec2>
+</Param_MotionDetctionSet>

@@ -1,0 +1,12 @@
+<Param_RecordCodeSet>
+  <MESSAGE_ID>3</MESSAGE_ID>
+  <MESSAGE_TYPE>0</MESSAGE_TYPE>
+  <StreamType>0</StreamType>
+  <ChId>0</ChId>
+  <isRec>1</isRec>
+  <Resolution>0</Resolution>
+  <FrameRate>25</FrameRate>
+  <Quality>1</Quality>
+  <HaveAudio>1</HaveAudio>
+  <isPreview>1</isPreview>
+</Param_RecordCodeSet>
