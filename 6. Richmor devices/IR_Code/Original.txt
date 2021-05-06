@@ -1,0 +1,53 @@
+#include <IRremote.h>
+
+IRsend irsend;
+
+void setup()
+{
+}
+
+void loop() {
+    for (int i = 0; i < 2; i++) {
+        irsend.sendNEC(0x1067E21D, 32); // Login
+        delay(1000);
+        irsend.sendNEC(0x106722DD, 32); // Password Diget 1
+        delay(1000);
+        irsend.sendNEC(0x106722DD, 32); // Password Diget 2
+        delay(1000);
+        irsend.sendNEC(0x106722DD, 32); // Password Diget 3
+        delay(1000);
+        irsend.sendNEC(0x106722DD, 32); // Password Diget 4
+        delay(1000);
+        irsend.sendNEC(0x106722DD, 32); // Password Diget 5
+        delay(1000);
+        irsend.sendNEC(0x106722DD, 32); // Password Diget 6
+        delay(1000);
+        irsend.sendNEC(0x10676897, 32); // Down Arrow 1
+        delay(1000);
+        irsend.sendNEC(0x10676897, 32); // Down Arrow 2
+        delay(1000);
+        irsend.sendNEC(0x10676897, 32); // Down Arrow 3
+        delay(1000);
+        irsend.sendNEC(0x10676897, 32); // Down Arrow 4
+        delay(1000);
+        irsend.sendNEC(0x10676897, 32); // Down Arrow 5
+        delay(1000);
+        irsend.sendNEC(0x10676897, 32); // Down Arrow 6
+        delay(1000);
+        irsend.sendNEC(0x10678877, 32); // Right Arrow 1
+        delay(1000);
+        irsend.sendNEC(0x10676897, 32); // Down Arrow 1
+        delay(1000);
+        irsend.sendNEC(0x1067A857, 32); // Enter
+        delay(1000);
+        irsend.sendNEC(0x1067A857, 32); // Enter
+        delay(1000);
+        irsend.sendNEC(0x10678877, 32); // Right Arrow 1
+        delay(1000);        
+        irsend.sendNEC(0x1067A857, 32); // Enter
+        delay(1000);
+    }
+    delay(5000); //5 second delay between each signal burst
+}
+
+ Works send many signals 1 second apart

@@ -1,0 +1,316 @@
+0xFFFFFFFF
+
+#################################################################################################
+########  1  ####################################################################################
+#################################################################################################
+Decoded NEC: 106742BD (32 bits)
+Raw (68): 8800 -4450 550 -550 550 -550 550 -550 550 -1650 550 -550 550 -550 600 -550 500 -600 550 -550 550 -1650 550 -1650 550 -550 550 -550 550 -1650 550 -1700 500 -1700 550 -550 550 -1650 550 -550 550 -550 550 -550 550 -550 550 -1650 600 -550 500 -1700 550 -550 550 -1650 550 -1650 550 -1650 550 -1650 600 -550 550 -1650 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8800 -2250 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8800 -2200 600 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+#################################################################################################
+########  2  ####################################################################################
+#################################################################################################
+Decoded NEC: 1067827D (32 bits)
+Raw (68): 8850 -4400 550 -550 550 -550 550 -550 600 -1600 550 -550 600 -550 500 -550 600 -550 550 -550 550 -1650 550 -1650 550 -550 600 -500 550 -1650 600 -1650 550 -1650 550 -1650 550 -550 550 -550 550 -550 600 -500 550 -600 550 -1650 550 -550 550 -550 550 -1650 550 -1650 550 -1650 600 -1600 600 -1650 550 -550 550 -1650 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+#################################################################################################
+########  3  ####################################################################################
+#################################################################################################
+Decoded NEC: 106702FD (32 bits)
+Raw (68): 8850 -4400 600 -550 500 -550 600 -550 550 -1650 550 -550 550 -550 550 -550 550 -550 600 -500 550 -1650 600 -1650 550 -550 550 -550 550 -1650 550 -1650 550 -1650 550 -550 600 -550 550 -550 500 -600 550 -550 550 -550 550 -1650 600 -500 550 -1650 600 -1600 600 -1650 550 -1650 550 -1650 550 -1650 550 -550 550 -1700 500 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 500 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 500 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 500 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 500 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 500 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 500 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 500 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 500 
+#################################################################################################
+########  4  ####################################################################################
+#################################################################################################
+Decoded NEC: 1067629D (32 bits)
+Raw (68): 8850 -4400 550 -550 550 -550 550 -550 550 -1650 550 -550 550 -550 550 -550 550 -550 600 -550 500 -1700 550 -1650 550 -550 550 -550 550 -1650 550 -1650 550 -1700 550 -500 600 -1650 550 -1650 550 -550 550 -550 550 -550 600 -1650 500 -550 600 -1650 550 -550 550 -550 550 -1650 550 -1650 550 -1650 550 -550 600 -1650 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8900 -2150 550 
+FFFFFFFF
+Decoded NEC: FFFFFFFF (0 bits)
+Raw (4): 8850 -2200 550 

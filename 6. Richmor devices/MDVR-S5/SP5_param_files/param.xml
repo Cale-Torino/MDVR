@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="gbk" ?>
+<config>
+  <parmVer __id="0" version="V191107_224419" />
+  <KeyPara __id="0" UpgradeAddr="0" MacAddr="00:00:00:00:00:00" xmlMagic="8211" frontMagic="3384000214" parmLength="19512" parmVer="0" MD5="72DCFB8BC0EE178C52D7815DC7B606DA" />
+  <SystemInfo __id="0" SysLanguage="1" MonitorNum="8" MdvrType="20" ProductType="6" LinkProtocol="2" DeviceType="22182000000000000000" AppVer="T19021801" DataVer="T18103002" UbootVer="hi20dv3-T" KernelVer="T18070601" RootfsVer="T18081001" SoftwareVer="A5.03.00.w" HardWareVer="V001" At88sc0104Version="" MCUVersion="T19032902" product_list_no="" manufacturer="" McuPrintervVer="T19031402" />
+  <BaseSetup __id="0" DateType="0" TimingMode="1" TimeZone="14" buzzerSwitch="0" timingtime="00:00:00" verifyChip="0" OprTimeOut="60" watermark="0" />
+  <TerminalSetup __id="0" device_num="01726" Phonenumber="01726" license_num="" company_name="" ServiceTel="" Provincial_id="" CityDomain_id="" Carcolors="" Authentication="10000" TerminalType="" TerminalID="" FacturerID="" CarVIN="" CarType="" Product_time="" />
+  <RecordSet __id="0" SysNorm="0" RecMode="0" AutoCover="1" AOVolume="15" AlarmPreRecTime="30" AlarmRecDelayTime="120" AlarmRecFileProtectTm="3" AudioType="0" PackTime="18000" CameraType="1" DisplayType="1" OsdMask="47">
+    <RecordSetChNo __id="0" isPreview="1" AIVolume="15" />
+    <RecordSetChNo __id="1" isPreview="1" AIVolume="15" />
+    <RecordSetChNo __id="2" isPreview="1" AIVolume="15" />
+    <RecordSetChNo __id="3" isPreview="1" AIVolume="15" />
+    <RecordSetChNo __id="4" isPreview="1" AIVolume="15" />
+    <RecordSetChNo __id="5" isPreview="1" AIVolume="15" />
+    <RecordSetChNo __id="6" isPreview="1" AIVolume="15" />
+    <RecordSetChNo __id="7" isPreview="1" AIVolume="15" />
+    <RecordSetRecTime __id="0" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <RecordSetRecTime __id="1" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <RecordSetRecTime __id="2" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <RecordSetRecTime __id="3" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <RecordSetRecTime __id="4" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <RecordSetRecTime __id="5" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <RecordSetRecTime __id="6" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <RecordSetRecTime __id="7" start_rec1="00:00:00" end_rec1="23:59:59" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <RecordSetMainChNoSet __id="0" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="1" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMainChNoSet __id="1" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="1" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMainChNoSet __id="2" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMainChNoSet __id="3" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMainChNoSet __id="4" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMainChNoSet __id="5" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMainChNoSet __id="6" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMainChNoSet __id="7" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetSubChNoSet __id="0" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="1" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetSubChNoSet __id="1" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="1" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetSubChNoSet __id="2" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetSubChNoSet __id="3" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetSubChNoSet __id="4" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetSubChNoSet __id="5" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetSubChNoSet __id="6" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetSubChNoSet __id="7" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMirrorChNoSet __id="0" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="1" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMirrorChNoSet __id="1" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="1" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMirrorChNoSet __id="2" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMirrorChNoSet __id="3" isRec="1" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMirrorChNoSet __id="4" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMirrorChNoSet __id="5" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMirrorChNoSet __id="6" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetMirrorChNoSet __id="7" isRec="0" Resolution="1" FrameRate="15" Quality="7" HaveAudio="0" PicLevel="0" Gop="100" BrMode="0" Bitkps="0" Osdmask="47" />
+    <RecordSetOSDRect __id="0" s32X="20" s32Y="50" u32Width="0" u32Height="0" />
+    <RecordSetOSDRect __id="1" s32X="700" s32Y="50" u32Width="0" u32Height="0" />
+    <RecordSetOSDRect __id="2" s32X="550" s32Y="50" u32Width="0" u32Height="0" />
+    <RecordSetOSDRect __id="3" s32X="20" s32Y="100" u32Width="0" u32Height="0" />
+    <RecordSetOSDRect __id="4" s32X="20" s32Y="150" u32Width="0" u32Height="0" />
+    <RecordSetOSDRect __id="5" s32X="600" s32Y="100" u32Width="0" u32Height="0" />
+    <RecordSetOSDRect __id="6" s32X="20" s32Y="200" u32Width="0" u32Height="0" />
+    <RecordSetOSDRect __id="7" s32X="20" s32Y="250" u32Width="0" u32Height="0" />
+    <RecordSetIPCSet __id="0" Enable="0" DevType="0" Protocol="0" ChlNo="0" CameraIP="0.0.0.0" CameraPort="0" UserName="" UserPwd="" ipcAddr="" rtspUrl_0="" rtspUrl_1="" />
+    <RecordSetIPCSet __id="1" Enable="0" DevType="0" Protocol="0" ChlNo="1" CameraIP="0.0.0.0" CameraPort="0" UserName="" UserPwd="" ipcAddr="" rtspUrl_0="" rtspUrl_1="" />
+    <RecordSetIPCSet __id="2" Enable="0" DevType="0" Protocol="0" ChlNo="2" CameraIP="0.0.0.0" CameraPort="0" UserName="" UserPwd="" ipcAddr="" rtspUrl_0="" rtspUrl_1="" />
+    <RecordSetIPCSet __id="3" Enable="0" DevType="0" Protocol="0" ChlNo="3" CameraIP="0.0.0.0" CameraPort="0" UserName="" UserPwd="" ipcAddr="" rtspUrl_0="" rtspUrl_1="" />
+    <RecordSetIPCSet __id="4" Enable="0" DevType="0" Protocol="0" ChlNo="4" CameraIP="0.0.0.0" CameraPort="0" UserName="" UserPwd="" ipcAddr="" rtspUrl_0="" rtspUrl_1="" />
+    <RecordSetIPCSet __id="5" Enable="0" DevType="0" Protocol="0" ChlNo="5" CameraIP="0.0.0.0" CameraPort="0" UserName="" UserPwd="" ipcAddr="" rtspUrl_0="" rtspUrl_1="" />
+    <RecordSetIPCSet __id="6" Enable="0" DevType="0" Protocol="0" ChlNo="6" CameraIP="0.0.0.0" CameraPort="0" UserName="" UserPwd="" ipcAddr="" rtspUrl_0="" rtspUrl_1="" />
+    <RecordSetIPCSet __id="7" Enable="0" DevType="0" Protocol="0" ChlNo="7" CameraIP="0.0.0.0" CameraPort="0" UserName="" UserPwd="" ipcAddr="" rtspUrl_0="" rtspUrl_1="" />
+  </RecordSet>
+  <SystemPowerSet __id="0" PowerMode="1" ScreenOffTime="60" DelayTime="1440" PowerOnTime="06:00:00" PowerOffTime="22:00:00" AccPowerOffRecEnable="13" />
+  <MonitorSet __id="0" OutputMode="2" ChlNum="0" LoopTime="12" showNum="4">
+    <ChlPos __id="0" xpos="0" ypos="0" w="500" h="500" />
+    <ChlPos __id="1" xpos="500" ypos="0" w="500" h="500" />
+    <ChlPos __id="2" xpos="0" ypos="500" w="500" h="500" />
+    <ChlPos __id="3" xpos="500" ypos="500" w="500" h="500" />
+    <ChlPos __id="4" xpos="0" ypos="0" w="0" h="0" />
+    <ChlPos __id="5" xpos="0" ypos="0" w="0" h="0" />
+    <ChlPos __id="6" xpos="0" ypos="0" w="0" h="0" />
+    <ChlPos __id="7" xpos="0" ypos="0" w="0" h="0" />
+    <ChlPos __id="8" xpos="0" ypos="0" w="0" h="0" />
+  </MonitorSet>
+  <FrontOsdSet __id="0" isChDisplay="1" ChlDisPos="1" isTimeDisplay="1" DateType="1" TimeInterval="0" DateDisPos="0">
+    <ChlName __id="0" ChlName="CH1" />
+    <ChlName __id="1" ChlName="CH2" />
+    <ChlName __id="2" ChlName="CH3" />
+    <ChlName __id="3" ChlName="CH4" />
+    <ChlName __id="4" ChlName="CH5" />
+    <ChlName __id="5" ChlName="CH6" />
+    <ChlName __id="6" ChlName="CH7" />
+    <ChlName __id="7" ChlName="CH8" />
+  </FrontOsdSet>
+  <NetWorkSet __id="0" IpAddr="192.168.1.200" NetMask="255.255.255.0" GateWay="192.168.1.2" mac="78:17:16:22:35:90" tts_auth="1" netdevice="0" linkType="0" DNS1="192.168.1.2" DNS2="192.168.1.2">
+    <CenterNetwork __id="0" Enable="1" Type="0" CenterIP="197.189.210.2" ContrlPort="6608" DomainName="" />
+    <CenterNetwork __id="1" Enable="1" Type="0" CenterIP="192.168.1.10" ContrlPort="6608" DomainName="" />
+    <CenterNetwork __id="2" Enable="1" Type="0" CenterIP="0.0.0.0" ContrlPort="0" DomainName="" />
+    <CenterNetwork __id="3" Enable="1" Type="0" CenterIP="0.0.0.0" ContrlPort="0" DomainName="" />
+    <CenterNetwork __id="4" Enable="1" Type="0" CenterIP="0.0.0.0" ContrlPort="0" DomainName="" />
+    <CenterNetwork __id="5" Enable="1" Type="0" CenterIP="0.0.0.0" ContrlPort="0" DomainName="" />
+    <CenterNetwork __id="6" Enable="0" Type="0" CenterIP="0.0.0.0" ContrlPort="0" DomainName="" />
+    <CenterNetwork __id="7" Enable="1" Type="0" CenterIP="129.232.134.18" ContrlPort="21" DomainName="ftp01 101101" />
+  </NetWorkSet>
+  <DialUpSet __id="0" isOpen="1" DialType="0" AuthMode="0" APN="one.za.com.apn" CenterNum="*99#" UserName="guest" UserPwd="" SimICCID="89860115851042424258" simLostTimes="0" SmsCenter="+27829129" />
+  <WifiSet __id="0" isOpen="0" EncryptSw="0" AuthMode="3" Encrypt="3" SSID="8888" Pwd="88888888" IpAddr="192.168.2.10" SubNet="255.255.255.0" GateWay="192.168.2.1" Purpose="0" />
+  <BlueToothSet __id="0" bOpen="0">
+    <BlueToothSetIdx __id="0" type="1" addr="000000000000" name="admin" addr_type="" />
+    <BlueToothSetIdx __id="1" type="1" addr="" name="" addr_type="" />
+    <BlueToothSetIdx __id="2" type="1" addr="" name="" addr_type="" />
+    <BlueToothSetIdx __id="3" type="1" addr="" name="" addr_type="" />
+    <BlueToothSetIdx __id="4" type="1" addr="" name="" addr_type="" />
+    <BlueToothSetIdx __id="5" type="1" addr="" name="" addr_type="" />
+    <BlueToothSetIdx __id="6" type="1" addr="" name="" addr_type="" />
+    <BlueToothSetIdx __id="7" type="1" addr="" name="" addr_type="" />
+  </BlueToothSet>
+  <DdnsSet __id="0" isOpen="0" UserName="" UserPwd="" Protocol="" />
+  <AlarmSet __id="0">
+    <SensorAlarmSet __id="0" Name="IO1" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="1" Name="IO2" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="2" Name="IO3" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="3" Name="IO4" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="4" Name="IO5" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="5" Name="IO6" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="6" Name="IO7" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="7" Name="IO8" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="8" Name="IO9" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="9" Name="IO10" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="10" Name="IO11" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="11" Name="IO12" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="12" Name="IO13" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="13" Name="IO14" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="14" Name="IO15" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+    <SensorAlarmSet __id="15" Name="IO16" Enable="0" isRecord="0" LimitValue="1" HoldTime="3" DelayTime="1" linkage="0" HomePageChannel="0" />
+  </AlarmSet>
+  <GSensorTH __id="0" isOpen="0" unit="256" BrakeDirect="0">
+    <GSensor __id="0" correct="0" Enable="0" isRecord="0" LimitValue="80" HoldTime="1" DelayTime="0" linkage="0" />
+    <GSensor __id="1" correct="0" Enable="0" isRecord="0" LimitValue="100" HoldTime="1" DelayTime="0" linkage="0" />
+    <GSensor __id="2" correct="0" Enable="0" isRecord="0" LimitValue="80" HoldTime="1" DelayTime="0" linkage="0" />
+    <GSensor __id="3" Enable="1" isRecord="0" LimitValue="650" HoldTime="1" DelayTime="0" linkage="0" />
+    <GSensor __id="4" Enable="0" isRecord="0" LimitValue="10" HoldTime="1" DelayTime="0" linkage="0" />
+  </GSensorTH>
+  <TemperateSet __id="0" TempUnit="0">
+    <Temperate __id="0" Enable="0" isRecord="0" LimitValue="-20" HoldTime="0" DelayTime="0" linkage="0" />
+    <Temperate __id="1" Enable="0" isRecord="0" LimitValue="60" HoldTime="0" DelayTime="0" linkage="0" />
+  </TemperateSet>
+  <SpeedSet __id="0" SpeedSource="0" SpeedUnit="0" SpeedLimitType="0" SpeedLimitVal="60" Mileage="0" PulseNum="0" PositioningMode="3" NightEnable="0" NightStartHour="0" NightStartMin="0" NightStartSec="0" NightEndHour="0" NightEndMin="0" NightEndSec="0">
+    <Speed __id="0" Enable="0" isRecord="0" LimitValue="5" HoldTime="0" DelayTime="0" linkage="0" />
+    <Speed __id="1" Enable="0" isRecord="0" LimitValue="10" HoldTime="0" DelayTime="0" linkage="0" />
+    <Speed __id="2" Enable="0" isRecord="0" LimitValue="15" HoldTime="0" DelayTime="0" linkage="0" />
+    <Speed __id="3" Enable="0" isRecord="0" LimitValue="75" HoldTime="0" DelayTime="0" linkage="0" />
+    <Speed __id="4" Enable="0" isRecord="0" LimitValue="80" HoldTime="0" DelayTime="0" linkage="0" />
+  </SpeedSet>
+  <SubStreamSet __id="0" resolution="0" bitRate="300" targetFrame="15" picLevel="0" gop="100" />
+  <DisplaySet __id="0" m_PreTimeDis="0" m_RecTimeDis="0">
+    <DisplayChNo __id="0" ChlName="" DisPos="0" Preview="0" bFilp="0" bMirror="0" Bright="50" Color="50" Contrast="50" Saturation="50" />
+    <DisplayChNo __id="1" ChlName="" DisPos="0" Preview="0" bFilp="0" bMirror="0" Bright="50" Color="50" Contrast="50" Saturation="50" />
+    <DisplayChNo __id="2" ChlName="" DisPos="0" Preview="0" bFilp="0" bMirror="0" Bright="50" Color="50" Contrast="50" Saturation="50" />
+    <DisplayChNo __id="3" ChlName="" DisPos="0" Preview="0" bFilp="0" bMirror="0" Bright="50" Color="50" Contrast="50" Saturation="50" />
+    <DisplayChNo __id="4" ChlName="" DisPos="0" Preview="0" bFilp="0" bMirror="0" Bright="50" Color="50" Contrast="50" Saturation="50" />
+    <DisplayChNo __id="5" ChlName="" DisPos="0" Preview="0" bFilp="0" bMirror="0" Bright="50" Color="50" Contrast="50" Saturation="50" />
+    <DisplayChNo __id="6" ChlName="" DisPos="0" Preview="0" bFilp="0" bMirror="0" Bright="50" Color="50" Contrast="50" Saturation="50" />
+    <DisplayChNo __id="7" ChlName="" DisPos="0" Preview="0" bFilp="0" bMirror="0" Bright="50" Color="50" Contrast="50" Saturation="50" />
+  </DisplaySet>
+  <DiskManSet __id="0" m_RecFileSize="100">
+    <DiskMan __id="0" m_diskName="disk_0" m_RecUse="0" m_RecPriority="2" m_LogUse="0" />
+    <DiskMan __id="1" m_diskName="usb" m_RecUse="0" m_RecPriority="2" m_LogUse="0" />
+    <DiskMan __id="2" m_diskName="sd1" m_RecUse="3" m_RecPriority="1" m_LogUse="0" />
+    <DiskMan __id="3" m_diskName="sd2" m_RecUse="1" m_RecPriority="2" m_LogUse="0" />
+    <DiskMan __id="4" m_diskName="disk_4" m_RecUse="0" m_RecPriority="2" m_LogUse="0" />
+    <DiskMan __id="5" m_diskName="disk_5" m_RecUse="0" m_RecPriority="2" m_LogUse="0" />
+    <DiskMan __id="6" m_diskName="hinand" m_RecUse="0" m_RecPriority="2" m_LogUse="0" />
+    <DiskMan __id="7" m_diskName="disk_7" m_RecUse="0" m_RecPriority="2" m_LogUse="0" />
+  </DiskManSet>
+  <NetworkMgSet __id="0" heartbeat="30" gpsinterval="30" contype="0" rptmode="0" timrpt="1" disrpt="100" sleepTimeRpt="30" sleepDstRpt="0" />
+  <PTZSet __id="0">
+    <PTZSetSub __id="0" Protocol="0" Number="1" Perset="1" />
+    <PTZSetSub __id="1" Protocol="0" Number="2" Perset="1" />
+    <PTZSetSub __id="2" Protocol="0" Number="3" Perset="1" />
+    <PTZSetSub __id="3" Protocol="0" Number="4" Perset="1" />
+    <PTZSetSub __id="4" Protocol="0" Number="5" Perset="1" />
+    <PTZSetSub __id="5" Protocol="0" Number="6" Perset="1" />
+    <PTZSetSub __id="6" Protocol="0" Number="7" Perset="1" />
+    <PTZSetSub __id="7" Protocol="0" Number="8" Perset="1" />
+    <PTZSetSub __id="8" Protocol="0" Number="9" Perset="1" />
+  </PTZSet>
+  <MotionDetction __id="0">
+    <MotionDetctionSub __id="0" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="40" LinkChn="0" Enable="0" isRecord="0" LimitValue="1" HoldTime="0" DelayTime="15" linkage="0" xpos="0" ypos="0" w="720" h="576" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MotionDetctionSub __id="1" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="40" LinkChn="0" Enable="0" isRecord="0" LimitValue="1" HoldTime="0" DelayTime="15" linkage="0" xpos="0" ypos="0" w="720" h="576" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MotionDetctionSub __id="2" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="40" LinkChn="0" Enable="0" isRecord="0" LimitValue="1" HoldTime="0" DelayTime="15" linkage="0" xpos="0" ypos="0" w="720" h="576" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MotionDetctionSub __id="3" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="40" LinkChn="0" Enable="0" isRecord="0" LimitValue="1" HoldTime="0" DelayTime="15" linkage="0" xpos="0" ypos="0" w="720" h="576" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MotionDetctionSub __id="4" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="40" LinkChn="0" Enable="0" isRecord="0" LimitValue="1" HoldTime="0" DelayTime="15" linkage="0" xpos="0" ypos="0" w="720" h="576" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MotionDetctionSub __id="5" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="40" LinkChn="0" Enable="0" isRecord="0" LimitValue="1" HoldTime="0" DelayTime="15" linkage="0" xpos="0" ypos="0" w="720" h="576" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MotionDetctionSub __id="6" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="40" LinkChn="0" Enable="0" isRecord="0" LimitValue="1" HoldTime="0" DelayTime="15" linkage="0" xpos="0" ypos="0" w="720" h="576" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MotionDetctionSub __id="7" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="40" LinkChn="0" Enable="0" isRecord="0" LimitValue="1" HoldTime="0" DelayTime="15" linkage="0" xpos="0" ypos="0" w="720" h="576" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MDSetRecTime __id="0" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="1" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="2" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="3" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="4" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="5" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="6" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="7" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+  </MotionDetction>
+  <VideoShield __id="0">
+    <VideoShieldSub __id="0" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="0" LinkChn="0" Enable="0" isRecord="0" LimitValue="0" HoldTime="0" DelayTime="0" linkage="0" xpos="0" ypos="0" w="0" h="0" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <VideoShieldSub __id="1" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="0" LinkChn="0" Enable="0" isRecord="0" LimitValue="0" HoldTime="0" DelayTime="0" linkage="0" xpos="0" ypos="0" w="0" h="0" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <VideoShieldSub __id="2" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="0" LinkChn="0" Enable="0" isRecord="0" LimitValue="0" HoldTime="0" DelayTime="0" linkage="0" xpos="0" ypos="0" w="0" h="0" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <VideoShieldSub __id="3" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="0" LinkChn="0" Enable="0" isRecord="0" LimitValue="0" HoldTime="0" DelayTime="0" linkage="0" xpos="0" ypos="0" w="0" h="0" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <VideoShieldSub __id="4" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="0" LinkChn="0" Enable="0" isRecord="0" LimitValue="0" HoldTime="0" DelayTime="0" linkage="0" xpos="0" ypos="0" w="0" h="0" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <VideoShieldSub __id="5" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="0" LinkChn="0" Enable="0" isRecord="0" LimitValue="0" HoldTime="0" DelayTime="0" linkage="0" xpos="0" ypos="0" w="0" h="0" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <VideoShieldSub __id="6" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="0" LinkChn="0" Enable="0" isRecord="0" LimitValue="0" HoldTime="0" DelayTime="0" linkage="0" xpos="0" ypos="0" w="0" h="0" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <VideoShieldSub __id="7" DetectMark="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" WorkOn="0" Sensitivity="0" LinkChn="0" Enable="0" isRecord="0" LimitValue="0" HoldTime="0" DelayTime="0" linkage="0" xpos="0" ypos="0" w="0" h="0" snapEnable="0" snapPicNum="0" snapInterval="0" />
+    <MDSetRecTime __id="0" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="1" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="2" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="3" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="4" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="5" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="6" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+    <MDSetRecTime __id="7" start_rec1="00:00:00" end_rec1="00:00:00" start_rec2="00:00:00" end_rec2="00:00:00" />
+  </VideoShield>
+  <BSMSet __id="0" CurNum="0" UPDOWN="0" AUTO_OPR="0" LEARNING="0">
+    <LineNum __id="0" LINESNUM="" />
+    <LineNum __id="1" LINESNUM="" />
+    <LineNum __id="2" LINESNUM="" />
+  </BSMSet>
+  <MultiLevelPowerModeSet __id="0" delaytime_level_0="0" delaytime_level_1="0" />
+  <DSTSet __id="0" onoff="0" start_month="3" start_day="10" end_month="11" end_day="3" />
+  <EncryptionSet __id="0" enable="0" cryptogram="" Decryptogram="" />
+  <Serportset __id="0">
+    <Serport __id="0" Baudrate="9" DataBit="8" StopBit="0" CheckBit="2" ControlBit="2" Number="0" Peripheral="645" />
+    <Serport __id="1" Baudrate="5" DataBit="8" StopBit="0" CheckBit="2" ControlBit="2" Number="0" Peripheral="0" />
+    <Serport __id="2" Baudrate="5" DataBit="8" StopBit="0" CheckBit="2" ControlBit="2" Number="0" Peripheral="0" />
+    <Serport __id="3" Baudrate="0" DataBit="0" StopBit="0" CheckBit="0" ControlBit="0" Number="0" Peripheral="0" />
+  </Serportset>
+  <AudioBusSet __id="0">
+    <AudioBus __id="0" Priority="9" ChannelType="0" PaType="1" />
+    <AudioBus __id="1" Priority="0" ChannelType="0" PaType="1" />
+    <AudioBus __id="2" Priority="0" ChannelType="0" PaType="1" />
+    <AudioBus __id="3" Priority="0" ChannelType="0" PaType="1" />
+    <AudioBus __id="4" Priority="0" ChannelType="0" PaType="1" />
+    <AudioBus __id="5" Priority="0" ChannelType="0" PaType="1" />
+    <AudioBus __id="6" Priority="0" ChannelType="0" PaType="1" />
+    <AudioBus __id="7" Priority="0" ChannelType="0" PaType="1" />
+  </AudioBusSet>
+  <Voltageset __id="0" VoltageShutdownDelay="5">
+    <Voltage __id="0" Enable="0" isRecord="0" LimitValue="10" HoldTime="0" DelayTime="0" linkage="0" />
+    <Voltage __id="1" Enable="0" isRecord="0" LimitValue="30" HoldTime="0" DelayTime="0" linkage="0" />
+  </Voltageset>
+  <Adasset __id="0" facemode="0" facetimeinter="60">
+    <Adas __id="0" enable="0" Chn_Id="2" isSnap="1" speedTh="60" isRecord="0" HoldTime="5" DelayTime="5" linkage="0" />
+    <Adas __id="1" enable="0" Chn_Id="1" isSnap="1" speedTh="60" isRecord="0" HoldTime="5" DelayTime="5" linkage="0" />
+  </Adasset>
+  <VolumeSet __id="0" PlaybackVol="8" TTSVol="8" IpTalkVol="8" PhoneInVol="8" PhoneOutVol="8" ReportVol="8" />
+  <NetProtocolSet __id="0" BBGPSCenterType="0" VideoCenterType="0" />
+  <UserDefindeParam __id="0">
+    <UserParam __id="0" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="1" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="2" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="3" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="4" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="5" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="6" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="7" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="8" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="9" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="10" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="11" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="12" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="13" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="14" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="15" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="16" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="17" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="18" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="19" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="20" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="21" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="22" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="23" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="24" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="25" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="26" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="27" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="28" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="29" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="30" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+    <UserParam __id="31" intParam0="0" intParam1="0" intParam2="0" intParam3="0" intParam4="0" intParam5="0" intParam6="0" intParam7="0" doubleParam="0.000000" charParam="" />
+  </UserDefindeParam>
+  <SysMagic __id="0" ConfigSysMagic="3384000214" />
+  <BBAlarmSet __id="0" spcalarm_save_rec="0" spcalarm_duration_times="0" spcalarm_mark_start="0" tcptimeout="0" alarm_mask="0" vehicle_load_pepole="0" fatigue_time_threshold="0" />
+</config>
