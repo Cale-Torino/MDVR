@@ -1,0 +1,21 @@
+{
+  "VOLTAGE": {
+    "powerdelay": "0",
+    "lalarm": {
+      "enable": "0",
+      "limit": "110",
+      "delay": "0",
+      "record": "1",
+      "holdtime": "0",
+      "linkage": "0"
+    },
+    "halarm": {
+      "enable": "0",
+      "limit": "150",
+      "delay": "0",
+      "record": "1",
+      "holdtime": "0",
+      "linkage": "0"
+    }
+  }
+}

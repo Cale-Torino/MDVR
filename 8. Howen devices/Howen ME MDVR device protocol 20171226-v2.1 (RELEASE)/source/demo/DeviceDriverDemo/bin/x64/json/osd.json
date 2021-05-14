@@ -1,0 +1,68 @@
+{
+  "OSD": {
+    "region0": {
+      "sx": "50",
+      "sy": "900",
+      "width": "304",
+      "height": "32",
+      "type": "1",
+      "text": "CH1"
+    },
+    "region1": {
+      "sx": "500",
+      "sy": "900",
+      "width": "304",
+      "height": "32",
+      "type": "2",
+      "text": "CH2"
+    },
+    "region2": {
+      "sx": "50",
+      "sy": "50",
+      "width": "304",
+      "height": "32",
+      "type": "3",
+      "text": "CH3"
+    },
+    "region3": {
+      "sx": "500",
+      "sy": "50",
+      "width": "304",
+      "height": "32",
+      "type": "4",
+      "text": "CH4"
+    },
+    "region4": {
+      "sx": "64",
+      "sy": "64",
+      "width": "304",
+      "height": "32",
+      "type": "1",
+      "text": "CH5"
+    },
+    "region5": {
+      "sx": "64",
+      "sy": "64",
+      "width": "304",
+      "height": "32",
+      "type": "1",
+      "text": "CH6"
+    },
+    "region6": {
+      "sx": "64",
+      "sy": "64",
+      "width": "304",
+      "height": "32",
+      "type": "1",
+      "text": "CH7"
+    },
+    "region7": {
+      "sx": "64",
+      "sy": "64",
+      "width": "304",
+      "height": "32",
+      "type": "1",
+      "text": "CH8"
+    }
+  }
+}

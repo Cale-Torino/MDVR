@@ -1,0 +1,6 @@
+{
+  "TTX": {
+    "heartbeat": "60",
+    "gpsinterval": "20"
+  }
+}

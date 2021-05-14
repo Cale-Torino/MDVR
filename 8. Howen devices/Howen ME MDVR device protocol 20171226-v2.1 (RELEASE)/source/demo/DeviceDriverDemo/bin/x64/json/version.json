@@ -1,0 +1,9 @@
+{
+  "VERSIONINFO": {
+    "boot": "test",
+    "kernel": "test",
+    "rootfs": "test",
+    "app": "test",
+    "hardware": "test"
+  }
+}

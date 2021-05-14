@@ -1,0 +1,44 @@
+{
+  "SERVER": {
+    "server0": {
+      "enable": "1",
+      "conntype": "0",
+      "mainip": "192.168.001.37",
+      "mainport": "6608",
+      "mainudpport": "8000",
+      "bakip": "113.108.120.47",
+      "bakport": "6608",
+      "bakudpport": "9000"
+    },
+    "server1": {
+      "enable": "1",
+      "conntype": "0",
+      "mainip": "192.168.1.103",
+      "mainport": "8000",
+      "mainudpport": "8000",
+      "bakip": "192.168.1.105",
+      "bakport": "9000",
+      "bakudpport": "9000"
+    },
+    "server2": {
+      "enable": "1",
+      "conntype": "0",
+      "mainip": "192.168.1.103",
+      "mainport": "8000",
+      "mainudpport": "8000",
+      "bakip": "192.168.1.105",
+      "bakport": "9000",
+      "bakudpport": "9000"
+    },
+    "server3": {
+      "enable": "1",
+      "conntype": "0",
+      "mainip": "192.168.1.103",
+      "mainport": "8000",
+      "mainudpport": "8000",
+      "bakip": "192.168.1.105",
+      "bakport": "9000",
+      "bakudpport": "9000"
+    }
+  }
+}

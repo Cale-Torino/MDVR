@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  ProtocolDemo.cpp
+  ProtocolDemoDlg.cpp
+  controller.cpp
+  device.cpp
+  deviceManager.cpp
+  clientBusiness.cpp
+  clientSession.cpp
+  listener.cpp
+  messageBuffer.cpp
+  proxyBuffer.cpp
+  server.cpp
+  utils.cpp
+  正在生成代码
+  All 4068 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+hw_basic.lib(jsonWriter.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basic.lib(jsonWriter.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basic.lib(jsonReader.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basic.lib(jsonReader.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basic.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basic.lib(stdafx.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basic.lib(resolverutils.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basic.lib(resolverutils.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basic.lib(xmlWriter.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basic.lib(xmlWriter.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basic.lib(xmlReader.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basic.lib(xmlReader.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+tinyxml.lib(tinyxml.obj) : warning LNK4099: 未找到 PDB“tinyxml.pdb”(使用“tinyxml.lib(tinyxml.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\tinyxml.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+tinyxml.lib(tinystr.obj) : warning LNK4099: 未找到 PDB“tinyxml.pdb”(使用“tinyxml.lib(tinystr.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\tinyxml.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+tinyxml.lib(tinyxmlparser.obj) : warning LNK4099: 未找到 PDB“tinyxml.pdb”(使用“tinyxml.lib(tinyxmlparser.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\tinyxml.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+tinyxml.lib(tinyxmlerror.obj) : warning LNK4099: 未找到 PDB“tinyxml.pdb”(使用“tinyxml.lib(tinyxmlerror.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x86\tinyxml.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ProtocolDemo.vcxproj -> C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\ProtocolDemo\..\bin\x86\ProtocolDemo.exe
+  ProtocolDemo.vcxproj -> ..\bin\x86\ProtocolDemo.pdb (Full PDB)

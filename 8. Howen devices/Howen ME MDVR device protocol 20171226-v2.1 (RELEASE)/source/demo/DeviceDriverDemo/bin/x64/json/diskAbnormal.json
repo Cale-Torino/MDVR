@@ -1,0 +1,32 @@
+{
+  "DiskAbnormalAlm": {
+    "disk0": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "disk1": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "disk2": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "disk3": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    }
+  }
+}

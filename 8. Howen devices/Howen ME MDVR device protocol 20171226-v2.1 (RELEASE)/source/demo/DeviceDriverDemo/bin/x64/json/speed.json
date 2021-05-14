@@ -1,0 +1,48 @@
+{
+  "SPEED": {
+    "source": "0",
+    "unit": "0",
+    "pulse": "0",
+    "posmode": "0",
+    "stopalarm": {
+      "enable": "0",
+      "limit": "0",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "0",
+      "linkage": "0"
+    },
+    "lowprealarm": {
+      "enable": "0",
+      "limit": "0",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "0",
+      "linkage": "2"
+    },
+    "lowalarm": {
+      "enable": "0",
+      "limit": "10",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "0",
+      "linkage": "0"
+    },
+    "highprealarm": {
+      "enable": "0",
+      "limit": "0",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "0",
+      "linkage": "0"
+    },
+    "highalarm": {
+      "enable": "0",
+      "limit": "50",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "0",
+      "linkage": "0"
+    }
+  }
+}

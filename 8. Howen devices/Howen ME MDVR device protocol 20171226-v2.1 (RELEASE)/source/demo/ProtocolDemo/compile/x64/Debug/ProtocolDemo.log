@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  utils.cpp
+  server.cpp
+  proxyBuffer.cpp
+  messageBuffer.cpp
+  listener.cpp
+  clientSession.cpp
+  clientBusiness.cpp
+  deviceManager.cpp
+  device.cpp
+  controller.cpp
+  ProtocolDemoDlg.cpp
+  ProtocolDemo.cpp
+  正在生成代码...
+hw_basicD.lib(jsonReader.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basicD.lib(jsonReader.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x64\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basicD.lib(jsonWriter.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basicD.lib(jsonWriter.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x64\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basicD.lib(resolverutils.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basicD.lib(resolverutils.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x64\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basicD.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basicD.lib(stdafx.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x64\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basicD.lib(xmlReader.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basicD.lib(xmlReader.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x64\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hw_basicD.lib(xmlWriter.obj) : warning LNK4099: 未找到 PDB“hw_basic.pdb”(使用“hw_basicD.lib(xmlWriter.obj)”或在“C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\bin\x64\hw_basic.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ProtocolDemo.vcxproj -> C:\Users\Administrator\Desktop\新建文件夹\V1.0.1.2\source\demo\ProtocolDemo\ProtocolDemo\..\bin\x64\ProtocolDemoD.exe
+  ProtocolDemo.vcxproj -> ..\bin\x64\ProtocolDemoD.pdb (Partial PDB)

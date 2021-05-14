@@ -1,0 +1,15 @@
+{
+  "STORE": {
+    "prerecord": "10",
+    "delayrecord": "120",
+    "protectday": "0",
+    "diskinfo": {
+      "disk0": "1",
+      "disk1": "1",
+      "disk2": "0",
+      "disk3": "0",
+      "disk4": "0",
+      "disk5": "0"
+    }
+  }
+}

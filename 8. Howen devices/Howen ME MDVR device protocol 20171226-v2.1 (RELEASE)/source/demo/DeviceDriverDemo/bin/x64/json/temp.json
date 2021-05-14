@@ -1,0 +1,21 @@
+{
+  "TEMP": {
+    "unit": "0",
+    "lalarm": {
+      "enable": "0",
+      "limit": "11",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "0",
+      "linkage": "0"
+    },
+    "halarm": {
+      "enable": "0",
+      "limit": "15",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "0",
+      "linkage": "17"
+    }
+  }
+}

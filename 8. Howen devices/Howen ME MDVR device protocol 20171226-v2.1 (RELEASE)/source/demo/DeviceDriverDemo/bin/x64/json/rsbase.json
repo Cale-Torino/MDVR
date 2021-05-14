@@ -1,0 +1,60 @@
+{
+  "RSBASE": {
+    "rs0": {
+      "baudrate": "38400",
+      "databit": "8",
+      "stopbit": "1",
+      "parity": "0",
+      "func": "0"
+    },
+    "rs1": {
+      "baudrate": "57600",
+      "databit": "7",
+      "stopbit": "1",
+      "parity": "1",
+      "func": "0"
+    },
+    "rs2": {
+      "baudrate": "38400",
+      "databit": "6",
+      "stopbit": "1",
+      "parity": "2",
+      "func": "0"
+    },
+    "rs3": {
+      "baudrate": "115200",
+      "databit": "5",
+      "stopbit": "1",
+      "parity": "3",
+      "func": "0"
+    },
+    "rs4": {
+      "baudrate": "9600",
+      "databit": "8",
+      "stopbit": "0",
+      "parity": "1",
+      "func": "1"
+    },
+    "rs5": {
+      "baudrate": "11520",
+      "databit": "8",
+      "stopbit": "1",
+      "parity": "2",
+      "func": "1"
+    },
+    "rs6": {
+      "baudrate": "11520",
+      "databit": "8",
+      "stopbit": "1",
+      "parity": "0",
+      "func": "1"
+    },
+    "rs7": {
+      "baudrate": "11520",
+      "databit": "8",
+      "stopbit": "1",
+      "parity": "0",
+      "func": "1"
+    }
+  }
+}

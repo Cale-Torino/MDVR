@@ -1,0 +1,240 @@
+{
+  "IOSET": {
+    "input": {
+      "chn0": {
+        "name": "input0",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn1": {
+        "name": "input1",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn2": {
+        "name": "input2",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn3": {
+        "name": "input3",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn4": {
+        "name": "input4",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn5": {
+        "name": "input5",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn6": {
+        "name": "input6",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn7": {
+        "name": "input7",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn8": {
+        "name": "input8",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn9": {
+        "name": "input9",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn10": {
+        "name": "input10",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn11": {
+        "name": "input11",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn12": {
+        "name": "input12",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn13": {
+        "name": "input13",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn14": {
+        "name": "input14",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "chn15": {
+        "name": "input15",
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      }
+    },
+    "output": {
+      "chn0": {
+        "enable": "0",
+        "limit": "0",
+        "delay": "0",
+        "record": "0",
+        "holdtime": "0",
+        "linkage": "0",
+        "PreviewChn": "0"
+      },
+      "chn1": {
+        "enable": "0",
+        "limit": "0",
+        "delay": "0",
+        "record": "0",
+        "holdtime": "0",
+        "linkage": "0",
+        "PreviewChn": "0"
+      },
+      "chn2": {
+        "enable": "0",
+        "limit": "0",
+        "delay": "0",
+        "record": "0",
+        "holdtime": "0",
+        "linkage": "0",
+        "PreviewChn": "0"
+      },
+      "chn3": {
+        "enable": "0",
+        "limit": "0",
+        "delay": "0",
+        "record": "0",
+        "holdtime": "0",
+        "linkage": "0",
+        "PreviewChn": "0"
+      },
+      "chn4": {
+        "enable": "0",
+        "limit": "0",
+        "delay": "0",
+        "record": "0",
+        "holdtime": "0",
+        "linkage": "0",
+        "PreviewChn": "0"
+      },
+      "chn5": {
+        "enable": "0",
+        "limit": "0",
+        "delay": "0",
+        "record": "0",
+        "holdtime": "0",
+        "linkage": "0",
+        "PreviewChn": "0"
+      },
+      "chn6": {
+        "enable": "0",
+        "limit": "0",
+        "delay": "0",
+        "record": "0",
+        "holdtime": "0",
+        "linkage": "0",
+        "PreviewChn": "0"
+      },
+      "chn7": {
+        "enable": "0",
+        "limit": "0",
+        "delay": "0",
+        "record": "0",
+        "holdtime": "0",
+        "linkage": "0",
+        "PreviewChn": "0"
+      }
+    }
+  }
+}

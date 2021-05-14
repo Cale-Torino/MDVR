@@ -1,0 +1,507 @@
+{
+  "RECORD": {
+    "SysNorm": "0",
+    "RecMode": "0",
+    "AutoCover": "1",
+    "AOVolume": "1",
+    "AudioType": "1",
+    "PackTime": "1",
+    "CameraType": "1",
+    "RecTimers": {
+      "time0": {
+        "start1": "0",
+        "end1": "86399",
+        "start2": "0",
+        "end2": "0"
+      },
+      "time1": {
+        "start1": "0",
+        "end1": "86399",
+        "start2": "0",
+        "end2": "0"
+      },
+      "time2": {
+        "start1": "0",
+        "end1": "86399",
+        "start2": "0",
+        "end2": "0"
+      },
+      "time3": {
+        "start1": "0",
+        "end1": "86399",
+        "start2": "0",
+        "end2": "0"
+      },
+      "time4": {
+        "start1": "0",
+        "end1": "86399",
+        "start2": "0",
+        "end2": "0"
+      },
+      "time5": {
+        "start1": "0",
+        "end1": "86399",
+        "start2": "0",
+        "end2": "0"
+      },
+      "time6": {
+        "start1": "0",
+        "end1": "86399",
+        "start2": "0",
+        "end2": "0"
+      },
+      "time7": {
+        "start1": "0",
+        "end1": "86399",
+        "start2": "0",
+        "end2": "0"
+      }
+    },
+    "MainChn": {
+      "chn0": {
+        "isRec": "1",
+        "FrameRate": "25",
+        "Resolution": "1",
+        "Quality": "4",
+        "HaveAudio": "1",
+        "Bitrate": "4096",
+        "PicLevel": "1",
+        "Gop": "25",
+        "Mirror": "0"
+      },
+      "chn1": {
+        "isRec": "1",
+        "FrameRate": "25",
+        "Resolution": "1",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "4096",
+        "PicLevel": "1",
+        "Gop": "25",
+        "Mirror": "0"
+      },
+      "chn2": {
+        "isRec": "1",
+        "FrameRate": "25",
+        "Resolution": "1",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "4096",
+        "PicLevel": "1",
+        "Gop": "25",
+        "Mirror": "0"
+      },
+      "chn3": {
+        "isRec": "1",
+        "FrameRate": "25",
+        "Resolution": "1",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "4096",
+        "PicLevel": "1",
+        "Gop": "25",
+        "Mirror": "0"
+      },
+      "chn4": {
+        "isRec": "1",
+        "FrameRate": "25",
+        "Resolution": "3",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "2048",
+        "PicLevel": "1",
+        "Gop": "25",
+        "Mirror": "0"
+      },
+      "chn5": {
+        "isRec": "1",
+        "FrameRate": "25",
+        "Resolution": "3",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "2048",
+        "PicLevel": "1",
+        "Gop": "25",
+        "Mirror": "0"
+      },
+      "chn6": {
+        "isRec": "1",
+        "FrameRate": "25",
+        "Resolution": "3",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "2048",
+        "PicLevel": "1",
+        "Gop": "25",
+        "Mirror": "0"
+      },
+      "chn7": {
+        "isRec": "1",
+        "FrameRate": "25",
+        "Resolution": "3",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "2048",
+        "PicLevel": "1",
+        "Gop": "25",
+        "Mirror": "0"
+      },
+      "chn8": {
+        "isRec": "1",
+        "FrameRate": "1",
+        "Resolution": "1",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1",
+        "Mirror": "0"
+      },
+      "chn9": {
+        "isRec": "1",
+        "FrameRate": "1",
+        "Resolution": "1",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1",
+        "Mirror": "0"
+      },
+      "chn10": {
+        "isRec": "1",
+        "FrameRate": "1",
+        "Resolution": "1",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1",
+        "Mirror": "0"
+      },
+      "chn11": {
+        "isRec": "1",
+        "FrameRate": "1",
+        "Resolution": "1",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1",
+        "Mirror": "0"
+      },
+      "chn12": {
+        "isRec": "1",
+        "FrameRate": "1",
+        "Resolution": "1",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1",
+        "Mirror": "0"
+      },
+      "chn13": {
+        "isRec": "1",
+        "FrameRate": "1",
+        "Resolution": "1",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1",
+        "Mirror": "0"
+      },
+      "chn14": {
+        "isRec": "1",
+        "FrameRate": "1",
+        "Resolution": "1",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1",
+        "Mirror": "0"
+      },
+      "chn15": {
+        "isRec": "1",
+        "FrameRate": "1",
+        "Resolution": "1",
+        "Quality": "1",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1",
+        "Mirror": "0"
+      }
+    },
+    "SubChn": {
+      "chn0": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn1": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn2": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn3": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn4": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn5": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn6": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn7": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn8": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn9": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn10": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn11": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn12": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn13": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn14": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      },
+      "chn15": {
+        "isRec": "1",
+        "FrameRate": "6",
+        "Resolution": "5",
+        "Quality": "4",
+        "HaveAudio": "0",
+        "Bitrate": "1",
+        "PicLevel": "1",
+        "Gop": "1"
+      }
+    },
+    "IPCChn": {
+      "chn0": {
+        "isOpen": "1",
+        "DevType": "1",
+        "Protocol": "1",
+        "ChlNo": "1",
+        "CameraPort": "1",
+        "CameraIP": "1",
+        "UserName": "1",
+        "UserPwd": "1",
+        "ipcAddr": "1",
+        "rtspUrl_0": "1",
+        "rtspUrl_1": "1"
+      },
+      "chn1": {
+        "isOpen": "1",
+        "DevType": "1",
+        "Protocol": "1",
+        "ChlNo": "1",
+        "CameraPort": "1",
+        "CameraIP": "1",
+        "UserName": "1",
+        "UserPwd": "1",
+        "ipcAddr": "1",
+        "rtspUrl_0": "1",
+        "rtspUrl_1": "1"
+      },
+      "chn2": {
+        "isOpen": "1",
+        "DevType": "1",
+        "Protocol": "1",
+        "ChlNo": "1",
+        "CameraPort": "1",
+        "CameraIP": "1",
+        "UserName": "1",
+        "UserPwd": "1",
+        "ipcAddr": "1",
+        "rtspUrl_0": "1",
+        "rtspUrl_1": "1"
+      },
+      "chn3": {
+        "isOpen": "1",
+        "DevType": "1",
+        "Protocol": "1",
+        "ChlNo": "1",
+        "CameraPort": "1",
+        "CameraIP": "1",
+        "UserName": "1",
+        "UserPwd": "1",
+        "ipcAddr": "1",
+        "rtspUrl_0": "1",
+        "rtspUrl_1": "1"
+      },
+      "chn4": {
+        "isOpen": "1",
+        "DevType": "1",
+        "Protocol": "1",
+        "ChlNo": "1",
+        "CameraPort": "1",
+        "CameraIP": "1",
+        "UserName": "1",
+        "UserPwd": "1",
+        "ipcAddr": "1",
+        "rtspUrl_0": "1",
+        "rtspUrl_1": "1"
+      },
+      "chn5": {
+        "isOpen": "1",
+        "DevType": "1",
+        "Protocol": "1",
+        "ChlNo": "1",
+        "CameraPort": "1",
+        "CameraIP": "1",
+        "UserName": "1",
+        "UserPwd": "1",
+        "ipcAddr": "1",
+        "rtspUrl_0": "1",
+        "rtspUrl_1": "1"
+      },
+      "chn6": {
+        "isOpen": "1",
+        "DevType": "1",
+        "Protocol": "1",
+        "ChlNo": "1",
+        "CameraPort": "1",
+        "CameraIP": "1",
+        "UserName": "1",
+        "UserPwd": "1",
+        "ipcAddr": "1",
+        "rtspUrl_0": "1",
+        "rtspUrl_1": "1"
+      },
+      "chn7": {
+        "isOpen": "1",
+        "DevType": "1",
+        "Protocol": "1",
+        "ChlNo": "1",
+        "CameraPort": "1",
+        "CameraIP": "1",
+        "UserName": "1",
+        "UserPwd": "1",
+        "ipcAddr": "1",
+        "rtspUrl_0": "1",
+        "rtspUrl_1": "1"
+      }
+    }
+  }
+}

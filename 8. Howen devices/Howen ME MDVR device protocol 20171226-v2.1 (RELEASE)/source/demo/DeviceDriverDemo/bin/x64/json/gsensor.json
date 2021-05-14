@@ -1,0 +1,50 @@
+{
+  "GSENSOR": {
+    "switch": "0",
+    "unit": "0",
+    "brakedirect": "0",
+    "correctx": "0",
+    "correcty": "0",
+    "correctz": "0",
+    "xalarm": {
+      "enable": "0",
+      "limit": "80",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "5",
+      "linkage": "0"
+    },
+    "yalarm": {
+      "enable": "0",
+      "limit": "80",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "5",
+      "linkage": "0"
+    },
+    "zalarm": {
+      "enable": "0",
+      "limit": "80",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "5",
+      "linkage": "1"
+    },
+    "hitalarm": {
+      "enable": "0",
+      "limit": "80",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "5",
+      "linkage": "1"
+    },
+    "tiltalarm": {
+      "enable": "0",
+      "limit": "80",
+      "delay": "0",
+      "record": "0",
+      "holdtime": "5",
+      "linkage": "1"
+    }
+  }
+}

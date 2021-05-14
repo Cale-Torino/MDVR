@@ -1,0 +1,11 @@
+{
+  "DIALUP": {
+    "switch": "1",
+    "type": "0",
+    "apn": "3gnet",
+    "servercode": "*99#",
+    "user": "card",
+    "passwd": "card",
+    "SmsService": "13800138000"
+  }
+}

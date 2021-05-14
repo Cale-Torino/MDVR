@@ -1,0 +1,10 @@
+{
+  "CLOCK": {
+    "switch": "1",
+    "timezone": "200",
+    "ntpserver": "www.ntp.comllll",
+    "DateType": "0",
+    "buzzerSwitch": "1",
+    "OprTimeOut": "60"
+  }
+}

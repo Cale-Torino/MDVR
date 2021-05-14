@@ -1,0 +1,116 @@
+{
+  "VideoLostAlm": {
+    "chn0": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "chn1": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "chn2": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "chn3": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "chn4": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "chn5": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "chn6": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "chn7": {
+      "enable": "0",
+      "interval": "600",
+      "delay": "15",
+      "holdTime": "60",
+      "linkage": "0"
+    },
+    "chn8": {
+      "enable": "0",
+      "interval": "15",
+      "delay": "15",
+      "holdTime": "3",
+      "linkage": "0"
+    },
+    "chn9": {
+      "enable": "0",
+      "interval": "3",
+      "delay": "3",
+      "holdTime": "30",
+      "linkage": "0"
+    },
+    "chn10": {
+      "enable": "0",
+      "interval": "3",
+      "delay": "3",
+      "holdTime": "30",
+      "linkage": "0"
+    },
+    "chn11": {
+      "enable": "0",
+      "interval": "3",
+      "delay": "3",
+      "holdTime": "30",
+      "linkage": "0"
+    },
+    "chn12": {
+      "enable": "0",
+      "interval": "3",
+      "delay": "3",
+      "holdTime": "30",
+      "linkage": "0"
+    },
+    "chn13": {
+      "enable": "0",
+      "interval": "3",
+      "delay": "3",
+      "holdTime": "30",
+      "linkage": "0"
+    },
+    "chn14": {
+      "enable": "0",
+      "interval": "3",
+      "delay": "3",
+      "holdTime": "30",
+      "linkage": "0"
+    },
+    "chn15": {
+      "enable": "0",
+      "interval": "3",
+      "delay": "3",
+      "holdTime": "30",
+      "linkage": "0"
+    }
+  }
+}

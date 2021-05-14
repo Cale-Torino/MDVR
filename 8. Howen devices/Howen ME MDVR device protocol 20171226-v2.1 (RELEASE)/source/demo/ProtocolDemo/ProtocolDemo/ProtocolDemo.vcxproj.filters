@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="server">
+      <UniqueIdentifier>{142bd303-70cb-4542-9311-e4b7c1445c9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\network">
+      <UniqueIdentifier>{93697e40-8f1a-4cb9-bdbe-2c5ef068eac8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server\utils">
+      <UniqueIdentifier>{025a1a7d-909b-4cf8-ac99-ebfae5164014}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ProtocolDemo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ProtocolDemoDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="server\network\clientBusiness.h">
+      <Filter>server\network</Filter>
+    </ClInclude>
+    <ClInclude Include="server\network\clientSession.h">
+      <Filter>server\network</Filter>
+    </ClInclude>
+    <ClInclude Include="server\network\declare.h">
+      <Filter>server\network</Filter>
+    </ClInclude>
+    <ClInclude Include="server\network\listener.h">
+      <Filter>server\network</Filter>
+    </ClInclude>
+    <ClInclude Include="server\network\messageBuffer.h">
+      <Filter>server\network</Filter>
+    </ClInclude>
+    <ClInclude Include="server\network\proxyBuffer.h">
+      <Filter>server\network</Filter>
+    </ClInclude>
+    <ClInclude Include="server\network\server.h">
+      <Filter>server\network</Filter>
+    </ClInclude>
+    <ClInclude Include="server\utils\utils.h">
+      <Filter>server\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="server\device.h">
+      <Filter>server</Filter>
+    </ClInclude>
+    <ClInclude Include="server\controller.h">
+      <Filter>server</Filter>
+    </ClInclude>
+    <ClInclude Include="server\deviceManager.h">
+      <Filter>server</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ProtocolDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ProtocolDemoDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="server\network\clientBusiness.cpp">
+      <Filter>server\network</Filter>
+    </ClCompile>
+    <ClCompile Include="server\network\clientSession.cpp">
+      <Filter>server\network</Filter>
+    </ClCompile>
+    <ClCompile Include="server\network\listener.cpp">
+      <Filter>server\network</Filter>
+    </ClCompile>
+    <ClCompile Include="server\network\messageBuffer.cpp">
+      <Filter>server\network</Filter>
+    </ClCompile>
+    <ClCompile Include="server\network\proxyBuffer.cpp">
+      <Filter>server\network</Filter>
+    </ClCompile>
+    <ClCompile Include="server\network\server.cpp">
+      <Filter>server\network</Filter>
+    </ClCompile>
+    <ClCompile Include="server\utils\utils.cpp">
+      <Filter>server\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="server\device.cpp">
+      <Filter>server</Filter>
+    </ClCompile>
+    <ClCompile Include="server\controller.cpp">
+      <Filter>server</Filter>
+    </ClCompile>
+    <ClCompile Include="server\deviceManager.cpp">
+      <Filter>server</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ProtocolDemo.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ProtocolDemo.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ProtocolDemo.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

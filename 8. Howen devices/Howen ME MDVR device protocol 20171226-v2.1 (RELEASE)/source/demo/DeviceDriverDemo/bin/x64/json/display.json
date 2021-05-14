@@ -1,0 +1,148 @@
+{
+  "DISPLAY": {
+    "DisplayType": "1",
+    "chn0": {
+      "Brior": "64",
+      "Coght": "64",
+      "Colntrast": "304",
+      "Saturation": "32",
+      "DisPos": "1",
+      "Preview": "1",
+      "ChnName": "1"
+    },
+    "chn1": {
+      "Brior": "64",
+      "Coght": "64",
+      "Colntrast": "304",
+      "Saturation": "32",
+      "DisPos": "1",
+      "Preview": "1",
+      "ChnName": "1"
+    },
+    "chn2": {
+      "Brior": "64",
+      "Coght": "64",
+      "Colntrast": "304",
+      "Saturation": "32",
+      "DisPos": "1",
+      "Preview": "1",
+      "ChnName": "1"
+    },
+    "chn3": {
+      "Brior": "64",
+      "Coght": "64",
+      "Colntrast": "304",
+      "Saturation": "32",
+      "DisPos": "1",
+      "Preview": "1",
+      "ChnName": "1"
+    },
+    "chn4": {
+      "Brior": "64",
+      "Coght": "64",
+      "Colntrast": "304",
+      "Saturation": "32",
+      "DisPos": "1",
+      "Preview": "1",
+      "ChnName": "1"
+    },
+    "chn5": {
+      "Brior": "64",
+      "Coght": "64",
+      "Colntrast": "304",
+      "Saturation": "32",
+      "DisPos": "1",
+      "Preview": "1",
+      "ChnName": "1"
+    },
+    "chn6": {
+      "Brior": "64",
+      "Coght": "64",
+      "Colntrast": "304",
+      "Saturation": "32",
+      "DisPos": "1",
+      "Preview": "1",
+      "ChnName": "1"
+    },
+    "chn7": {
+      "Brior": "64",
+      "Coght": "64",
+      "Colntrast": "304",
+      "Saturation": "32",
+      "DisPos": "1",
+      "Preview": "1",
+      "ChnName": "1"
+    },
+    "chn8": {
+      "Brior": "11875",
+      "Coght": "28531",
+      "Colntrast": "12334",
+      "Saturation": "16384",
+      "DisPos": "47",
+      "Preview": "108",
+      "ChnName": "ib/libpthread.so.0"
+    },
+    "chn9": {
+      "Brior": "11876",
+      "Coght": "28531",
+      "Colntrast": "12334",
+      "Saturation": "27648",
+      "DisPos": "105",
+      "Preview": "98",
+      "ChnName": "gcc_s.so.1"
+    },
+    "chn10": {
+      "Brior": "27695",
+      "Coght": "25193",
+      "Colntrast": "11875",
+      "Saturation": "28531",
+      "DisPos": "46",
+      "Preview": "48"
+    },
+    "chn11": {
+      "Brior": "28531",
+      "Coght": "12334",
+      "Colntrast": "16384",
+      "Saturation": "27695",
+      "DisPos": "105",
+      "Preview": "98",
+      "ChnName": "/libstdc++.so.6"
+    },
+    "chn12": {
+      "Brior": "11887",
+      "Coght": "54",
+      "Colntrast": "27695",
+      "Saturation": "25193",
+      "DisPos": "112",
+      "Preview": "116",
+      "ChnName": "hread.so.0"
+    },
+    "chn13": {
+      "Brior": "25193",
+      "Coght": "25447",
+      "Colntrast": "24419",
+      "Saturation": "11891",
+      "DisPos": "115",
+      "Preview": "111",
+      "ChnName": ".1"
+    },
+    "chn14": {
+      "Brior": "12334",
+      "Coght": "16384",
+      "Colntrast": "27695",
+      "Saturation": "25193",
+      "DisPos": "47",
+      "Preview": "108",
+      "ChnName": "ibm.so.0"
+    },
+    "chn15": {
+      "Brior": "25193",
+      "Coght": "27695",
+      "Colntrast": "25193",
+      "Saturation": "29811",
+      "DisPos": "100",
+      "Preview": "99",
+      "ChnName": "++.so.6"
+    }
+  }
+}

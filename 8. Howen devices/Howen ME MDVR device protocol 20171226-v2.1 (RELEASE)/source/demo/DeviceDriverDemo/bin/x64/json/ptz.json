@@ -1,0 +1,84 @@
+{
+  "PTZ": {
+    "chn0": {
+      "Protocol": "1",
+      "Number": "1",
+      "Perset": "1"
+    },
+    "chn1": {
+      "Protocol": "1",
+      "Number": "1",
+      "Perset": "1"
+    },
+    "chn2": {
+      "Protocol": "1",
+      "Number": "1",
+      "Perset": "1"
+    },
+    "chn3": {
+      "Protocol": "1",
+      "Number": "1",
+      "Perset": "1"
+    },
+    "chn4": {
+      "Protocol": "1",
+      "Number": "1",
+      "Perset": "1"
+    },
+    "chn5": {
+      "Protocol": "1",
+      "Number": "1",
+      "Perset": "1"
+    },
+    "chn6": {
+      "Protocol": "1",
+      "Number": "1",
+      "Perset": "1"
+    },
+    "chn7": {
+      "Protocol": "1",
+      "Number": "1",
+      "Perset": "1"
+    },
+    "chn8": {
+      "Protocol": "196",
+      "Number": "105",
+      "Perset": "12"
+    },
+    "chn9": {
+      "Protocol": "64",
+      "Number": "2",
+      "Perset": "0"
+    },
+    "chn10": {
+      "Protocol": "0",
+      "Number": "0",
+      "Perset": "57"
+    },
+    "chn11": {
+      "Protocol": "196",
+      "Number": "248",
+      "Perset": "47"
+    },
+    "chn12": {
+      "Protocol": "164",
+      "Number": "58",
+      "Perset": "53"
+    },
+    "chn13": {
+      "Protocol": "64",
+      "Number": "176",
+      "Perset": "218"
+    },
+    "chn14": {
+      "Protocol": "249",
+      "Number": "14",
+      "Perset": "0"
+    },
+    "chn15": {
+      "Protocol": "0",
+      "Number": "0",
+      "Perset": "0"
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "MOTIONDETECT": {
+    "chn0": {
+      "Sensitivity": "20",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "15",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn1": {
+      "Sensitivity": "20",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "15",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "2",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn2": {
+      "Sensitivity": "20",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "15",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn3": {
+      "Sensitivity": "20",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "15",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn4": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn5": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn6": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn7": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn8": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn9": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn10": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn11": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn12": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn13": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn14": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    },
+    "chn15": {
+      "Sensitivity": "1",
+      "alarm": {
+        "enable": "0",
+        "limit": "1",
+        "delay": "0",
+        "record": "1",
+        "holdtime": "5",
+        "linkage": "1",
+        "PreviewChn": "1"
+      },
+      "Rect": {
+        "sx": "1",
+        "sy": "1",
+        "width": "1",
+        "height": "1"
+      }
+    }
+  }
+}
