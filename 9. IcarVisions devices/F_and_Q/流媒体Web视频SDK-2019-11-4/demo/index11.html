@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div class="options">
+        <input type="checkbox" id="isLive" onchange="saveSettings()" />
+        <label for="isLive">isLive</label>
+        <input type="checkbox" id="withCredentials" onchange="saveSettings()" />
+        <label for="withCredentials">withCredentials</label>
+        <input type="checkbox" id="hasAudio" onchange="saveSettings()" checked />
+        <label for="hasAudio">hasAudio</label>
+        <input type="checkbox" id="hasVideo" onchange="saveSettings()" checked />
+        <label for="hasVideo">hasVideo</label>
+    </div>
+    <div class="video-container">
+        <div class="url-input">
+                <label for="sURL">Stream URL:</label>
+                <input id="sURL1" type="text" value="http://192.168.168.65:6604/MulRealplayFlv.do/param0/?DevIDNO=1891111&Channel=0&StreamType=1" />
+        </div>
+        <div>
+            <video name="videoElement1" class="centeredVideo1" controls autoplay width="380" height="240" style="width= 100%; height=100%; object-fit: fill">
+                Your browser is too old which doesn't support HTML5 video.
+            </video>
+        </div>
+    </div>
+    <div class="url-input">
+            <label for="sURL">Stream URL:</label>
+            <input id="sURL2" type="text" value="http://192.168.168.65:6604/MulRealplayFlv.do/param1/?DevIDNO=1891111&Channel=1&StreamType=1" />
+    </div>
+    <div class="video-container">
+            <div>
+                <video name="videoElement2" class="centeredVideo2" controls autoplay width="420" height="240">
+                    Your browser is too old which doesn't support HTML5 video.
+                </video>
+            </div>
+    </div>
+    <div class="url-input">
+            <label for="sURL">Stream URL:</label>
+            <input id="sURL3" type="text" value="http://192.168.168.65:6604/MulRealplayFlv.do/param2/?DevIDNO=1891111&Channel=2&StreamType=1" />
+    </div>
+    <div class="video-container">
+            <div>
+                <video name="videoElement3" class="centeredVideo3" controls autoplay width="320" height="240">
+                    Your browser is too old which doesn't support HTML5 video.
+                </video>
+            </div>
+    </div>
+    <div class="url-input">
+            <label for="sURL">Stream URL:</label>
+            <input id="sURL4" type="text" value="http://192.168.168.65:6604/MulRealplayFlv.do/param2/?DevIDNO=1891111&Channel=3&StreamType=1" />
+    </div>
+    <div class="video-container">
+            <div>
+                <video name="videoElement4" class="centeredVideo4" controls autoplay width="380" height="240" style="width= 100%; height=100%; object-fit: fill">
+                    Your browser is too old which doesn't support HTML5 video.
+                </video>
+            </div>
+    </div>
+    <div class="controls">
+        <button onclick="flv_load()">Load</button>
+        <button onclick="flv_start()">Start</button>
+        <button onclick="flv_pause()">Pause</button>
+        <button onclick="flv_destroy()">Destroy</button>
+    </div>
+    <script src="../dist/flv.js"></script>
+    <script>
+        var player1, player2, player3 ,player4;
+        var playerList = [player1,player2,player3,player4];
+        function flv_load() {
+            console.log('isSupported: ' + flvjs.isSupported());
+            var i;
+            var mediaDataSourceList = [];
+            var mediaDataSource1 = {
+                type: 'flv'
+            };
+            var mediaDataSource2 = {
+                type: 'flv'
+            };
+            var mediaDataSource3 = {
+                type: 'flv'
+            };
+            var mediaDataSource4 = {
+                type: 'flv'
+            };
+            mediaDataSourceList.push(mediaDataSource1,mediaDataSource2,mediaDataSource3,mediaDataSource4)
+            // for (i = 0; i < checkBoxFields.length; i++) {
+            //     var field = checkBoxFields[i];
+            //     /** @type {HTMLInputElement} */
+            //     var checkbox = document.getElementById(field);
+            //     mediaDataSource[field] = checkbox.checked;
+            // }
+            for (var j = 1; j < 5 ; j++) {
+
+                mediaDataSourceList[j-1]['url'] = document.getElementById('sURL'+j).value;
+                console.log('MediaDataSource', mediaDataSourceList[j-1]);
+                flv_load_mds(mediaDataSourceList[j-1] , j);
+            }
+        }
+
+        function flv_load_mds(mediaDataSource , j) {
+            var element = document.getElementsByName('videoElement' + j)[0];
+            if (typeof playerList[j-1] !== "undefined") {
+                if (playerList[j-1] != null) {
+                    playerList[j-1].unload();
+                    playerList[j-1].detachMediaElement();
+                    playerList[j-1].destroy();
+                    playerList[j-1] = null;
+                }
+            }
+            playerList[j-1] = flvjs.createPlayer(mediaDataSource, {
+                enableWorker: false,
+                lazyLoadMaxDuration: 3 * 60, // 延迟负载最大持续时间180s
+                seekType: 'range',  //滑块控件range
+            });
+            playerList[j-1].attachMediaElement(element);
+            playerList[j-1].load();
+        }
+
+        function flv_start() {
+            for (var a = 0 ; a < 4 ; a++) {
+                playerList[a].play();
+            }
+        }
+
+        function flv_pause() {
+            for (var a = 0 ; a < 4 ; a++) {
+                playerList[a].pause();
+            }
+        }
+
+        function flv_destroy() {
+            for (var a = 0 ; a < 4 ; a++) {
+                playerList[a].pause();
+                playerList[a].unload();
+                playerList[a].detachMediaElement();
+                playerList[a].destroy();
+                playerList[a] = null;
+            }
+        }
+    </script>
+    <style>
+        .url-input , .options {
+            font-size: 13px;
+        }
+
+        .url-input {
+            display: flex;
+        }
+
+        .url-input label {
+            flex: initial;
+        }
+
+        .url-input input {
+            flex: auto;
+            margin-left: 8px;
+        }
+        .video-container video {
+            width: 640;
+            height: 480;
+        }
+    </style>
+</body>
+</html>

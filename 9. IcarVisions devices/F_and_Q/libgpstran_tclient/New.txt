@@ -1,0 +1,12 @@
+2015-06-24
+   1 . Alarm supports
+   2 . Transport data supports
+   3 . Custom message header supports
+   
+   
+2019-06-08
+	1 . remove reply log from server
+
+
+2020-05-05
+	1 . x64 version released
