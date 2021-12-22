@@ -1,6 +1,6 @@
 # MDVR
 
-All documents, walk-through files and other files relating to MDVR (Mobile Digital Recording) devices
+All documents, walk-through files and other files relating to MDVR (Mobile Digital Video Recording) devices
 
 ### Food for thought
 
