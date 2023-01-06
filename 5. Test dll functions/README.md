@@ -17,18 +17,18 @@
 Make sure that the correct .dll files are in the executable's directory. Below is an example of the main element of this program:
 
 ```C#
-//Here the app calls methouds from the C++ .dll files for use in the application.
+//Here the app calls methods from the C++ .dll files for use in the application.
 [DllImport("libnetclient.dll", CallingConvention = CallingConvention.StdCall)]//standard call
-public static extern int NETCLIENT_Initialize(int bPriorRGB16);//methoud called as static
+public static extern int NETCLIENT_Initialize(int bPriorRGB16);//method called as static
 
 //Callbacks are handled as delegates here a callback function gives us an int value.
 [UnmanagedFunctionPointer(CallingConvention.StdCall)]//standard call
 public delegate void FUNLoginMsgCB(int nMsg, Form1 form1);//returns int nMsg & form1 is the current form it resides on.
 
-//A methoud is called like this, where NETClass is the class.cs file. variables are passed to the functions as usual
+//A method is called like this, where NETClass is the class.cs file. variables are passed to the functions as usual
 int _ini = NETClass.NETCLIENT_Initialize(0);
 
-//Here a methoud is called and returns a callback delegate. FUNLoginMsgCB is the delegate function see example
+//Here a method is called and returns a callback delegate. FUNLoginMsgCB is the delegate function see example
 FUNLoginMsgCB _callback = new FUNLoginMsgCB(FUNLoginMsgCB);
 int callback = NETClass.NETCLIENT_RegLoginMsg(this, _callback);
 
@@ -56,7 +56,7 @@ int callback = NETClass.NETCLIENT_RegLoginMsg(this, _callback);
 **NOTE**
 
 This app is meant to be writen in C++ as an MFC application. 
-This is a conversion to C# WinForms for those clients who need to integrate into older existing applications useing winforms.
+This is a conversion to C# WinForms for those clients who need to integrate into older existing applications using winforms.
 
 * Requirements are:
     * Visual studio (2019 is preferred but you can try 2015 or 2017).
@@ -84,7 +84,7 @@ Further refactoring.
 * form made smaller.
 * code refactored and reduced.
 * custom parameters can now be sent
-* methoud ```FUNMCMsgCB();``` can now return proper values via IntPtrtoAnsi conversion.
+* method ```FUNMCMsgCB();``` can now return proper values via IntPtrtoAnsi conversion.
 * fixed garbage collection on the callbacks -- may need to take another look at a later stage.
 
 ---
@@ -98,7 +98,7 @@ Further refactoring.
 * form made smaller.
 * code refactored and reduced.
 * custom parameters can now be sent
-* methoud ```FUNMCMsgCB();``` can now return proper values via IntPtrtoAnsi conversion.
+* method ```FUNMCMsgCB();``` can now return proper values via IntPtrtoAnsi conversion.
 * fixed garbage collection on the callbacks -- may need to take another look at a later stage.
 
 ---
@@ -125,7 +125,7 @@ Winform C# app required for clients using old existing systems (they want to int
 
 First test run as an MFC (application runs).
 
-* run useing VS2015 MFC application is successfull.
+* run using VS2015 MFC application is successfull.
 * CMSV6 is still used since there is no need for a custom app at this time.
 * App development put on hold.
 
@@ -133,7 +133,7 @@ First test run as an MFC (application runs).
 
 **Initial SDK acquired (06-May-2019)**
 
-Accired SDK from mr Afu at [g-sky](http://www.g-sky.cn).
+Acquired SDK from mr Afu at [g-sky](http://www.g-sky.cn).
 
 ---
 
